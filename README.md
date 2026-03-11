@@ -1,24 +1,21 @@
 # A. Curwen
 
-Architect of modular governance, trust substrates, and user‑owned identity.  
-Founder of SCU Labs & SCU Foundation.  
-Stewarding Lattice — a protocol for interoperable AI communication.
+Architect of substrate‑level systems; originator of the  
+[SCU architecture](https://scu.foundation) and  
+[Lattice Core](https://latticecore.net).
 
-My work focuses on designing systems that reconcile constraints, resolve contradictions,  
-and reveal depth beneath simple surfaces. I build structures intended to scale with clarity,  
-support long‑term alignment, and maintain integrity across complex environments.
+Foundational Steward — SCU Foundation  
+Foundational Steward — LSN Foundation
 
-### Current Work
-- **Lattice Protocol** — modular identity substrate and communication layer  
-- **SCU Foundation** — standards, governance, and long‑term stewardship  
-- **SCU Labs** — applied research, prototypes, and reference implementations  
+### Work
+- SCU architecture — substrate model for post‑silicon computation  
+- Lattice Core — semantic substrate for AI‑to‑AI communication  
+- Stewardship of open, neutral, long‑horizon standards  
 
-### Principles
-- Minimal surfaces, maximal structure  
-- Modularity as a governance tool  
-- Depth encoded beneath simplicity  
-- Identity as a user‑owned primitive  
-- Systems that remain legible under pressure  
-
-### Contact
-curwen@scu.foundation
+### Surfaces
+- Website — https://curwen.cc  
+- SCU Foundation — https://scu.foundation  
+- LSN Foundation — https://lsn.foundation  
+- GitHub — https://github.com/curwen-cc  
+- X — https://x.com/curwen_cc  
+- Contact — a@curwen.cc
